@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=away0419&layout=compact&hide=javascript,css,scss,plsql,dockerfile,shell,html&theme=shadow_green&langs_count=8"/>
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksmsy&layout=compact&hide=javascript,css,scss,plsql,dockerfile,shell,html&theme=shadow_green&langs_count=8"/>
   
   ### 🛠 SKILL 🛠
  
