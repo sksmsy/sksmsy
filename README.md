@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" height="145px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=away0419"/>
+  <img align="right" height="145px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh94502"/>
   
 ## 👋 SKSMSY YUN HYEOK 👋 
   
